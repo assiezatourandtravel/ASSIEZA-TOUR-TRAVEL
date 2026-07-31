@@ -206,6 +206,26 @@ header.active{
 
 }
 
+.logo{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+}
+
+.logo img{
+
+    width:45px;
+
+    height:45px;
+
+    object-fit:contain;
+
+}
+
 .logo h2{
 
     color:#ffd700;
