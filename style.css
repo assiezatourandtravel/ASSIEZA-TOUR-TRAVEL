@@ -223,6 +223,10 @@ header.active{
     height:45px;
 
     object-fit:contain;
+   
+    display:block;
+   
+   flex-shrink:0;
 
 }
 
